@@ -1,0 +1,5 @@
+# ERPNext Attendance - sensitive / machine-specific files
+erpnext-config.json
+erpnext-attendance-log.json
+# Temp / debug helpers
+_*.ps1
